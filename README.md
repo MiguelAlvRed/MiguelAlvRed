@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate frontend developer from Spain</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miguelalvred" alt="miguelalvred" /></a> </p>
-
 - 🔭 I’m currently studying a [MSc in Big Data & Analytics](https://www.eae.es/full-time/master-big-data-and-analytics/presentacion)
 
 - 🌱 I’m currently learning **SQL and Python**
