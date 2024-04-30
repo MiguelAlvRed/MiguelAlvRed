@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h3 align="center">A passionate data analyst from Spain</h3>
 
 - 🔭 I’m currently studying a [MSc in Big Data & Analytics](https://www.eae.es/full-time/master-big-data-and-analytics/presentacion)
 
